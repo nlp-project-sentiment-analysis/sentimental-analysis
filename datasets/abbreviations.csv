@@ -137,7 +137,6 @@ ihni,i have no idea
 iirc,if i remember correctly
 ikr,i know right
 ily,i love you
-im,instant message
 imho,in my humble opinion
 imo,in my opinion
 ims,i am sorry
@@ -187,7 +186,6 @@ nsfl,not safe for life
 nsfw,not safe for work
 nts,note to self
 nvm,never mind
-oh,overheard
 oic,oh i see
 omg,oh my god
 omw,on my way
@@ -205,6 +203,7 @@ ppl,people
 ptb,please text back
 ptmm,please tell me more
 qq,crying
+r ,are
 rak,random act of kindness
 rbtl,read between the lines
 rip,rest in peace
@@ -240,7 +239,6 @@ tgif,thank god it is friday
 thx,thanks
 tia,thanks in advance
 tiad,tomorrow is another day
-time,tears in my eyes
 tlc,tender loving care
 tlk2ul8r,talk to you later
 tmi,too much information
@@ -366,7 +364,6 @@ alol,actually laughing out loud
 alotbsol,always look on the bright side of life
 alu,arithmetic logic unit
 alwp,actual laughter was produced
-am,ante meridiem  amplitude modulation 
 ama,ask me anything against medical advice
 amaa,ask me almost anything
 amap,as much as possible
@@ -380,7 +377,6 @@ amog,alpha male of group
 amt,alpha methyltryptamine
 amv,anime music video
 amw,americas most wanted 
-an,authors note
 anc,african national congress
 anfawfos,and now for a word from our sponsor
 anfscd,and now for something completely different
@@ -575,7 +571,6 @@ ccna,cisco certified network associate
 ccr,creedence clearwater revival 
 cctv,closed circuit television
 ccw,counterclockwise carrying a concealed weapon
-cd,compact disc cross dresser
 cdc,cult of the dead cow crudely drawn cock
 cdma,code division multiple access
 cd rw,compact disk rewritable
@@ -912,7 +907,6 @@ hdy,how dare you
 hdyd,how do you do
 hdydt,how did you do that
 hdyk,how do you know
-he,happy ending high explosives
 hea,happily ever after
 henry,high earner not rich yet
 hf,have fun
@@ -1213,7 +1207,6 @@ ilyt,i love you too
 ilytb,i love you to bits
 ilyvm,i love you very much
 ilywamh,i love you with all my heart
-im,instant message
 imaho,in my absolutely honest opinion
 imao,in my arrogant opinion
 imap,internet message access protocol
@@ -1302,7 +1295,6 @@ istm,it seems to me
 istr,i seem to recall
 iswydt,i see what you did there
 iswym,i see what you mean
-it,information technology
 ita,i totally agree
 itai,i will think about it
 italy,i trust and love you
@@ -1320,7 +1312,6 @@ itn,i think not
 ito,in terms of
 itoy,i am thinking of you
 itp,inside the perimeter
-its,i think or thought so
 itso,in the style of
 itt,in this thread
 ittet,in these tough economic times
@@ -1857,7 +1848,6 @@ mwf,married white female
 mwi,mad with it 
 mwm,married white male
 mwpp,moony wormtail padfoot and prongs 
-my,miss you
 myb,mind your business
 mych,maybe you can help
 myf,miss your  face
@@ -2567,7 +2557,6 @@ salts,smiled a little then stopped
 sam,stop annoying me
 sap,sad and pathetic fool
 sase,self addressed stamped envelope
-sat,scholastic assessment test
 sata,serial advanced technology attachment
 satc,sex and the city 
 sats,standard attainment tests
@@ -2632,7 +2621,6 @@ snf,so not funny
 snm,say no more
 snr,signal to noise ratio
 snyk,so now you know
-so,significant other shout out
 soa,state of alert 
 soad,system of a down 
 soag,son of a gun
@@ -2834,7 +2822,6 @@ tnsl,took nothing signed logbook
 tnstaafl,there is no such thing as a free lunch
 tnt,til next time
 tntm,that is news to me
-to,time out
 toc,table of contents
 tod,time of death time of day
 toefl,test of english as a foreign language
@@ -2927,9 +2914,9 @@ tysm,thank you so much
 tysvm,thank you so very much
 tyt,take your time
 tyvm,thank you very much
+u ,you
 uri,uniform resource indicator url
 url,uniform resource locator internet address
-us,united states
 usa,united states of america
 usaf,united states air force
 usb,universal serial bus
@@ -3025,7 +3012,6 @@ waml,with all my love
 wap,wireless access point
 wapce,women are pure concentrated evil
 warez,cracked or pirate software
-was,wait and see
 way,where are you
 wayd,what are you doing
 waydrn,what are you doing right now
@@ -3084,7 +3070,6 @@ whyd,what have you done
 wia,wounded in action
 wip,work in progress
 wir,when it is ready
-with,where in the hell
 witw,what in the world
 wiuwy,what is up with you
 wiwt,what i wore today wish i was there
@@ -3356,3 +3341,8 @@ ywca,young womens christian association
 ywimc,your wish is my command
 ywsyls,you win some you lose some
 ywu,yo waz up
+youre,you are
+didnt, did not
+im, i am 
+u, you
+tks. thanks,
