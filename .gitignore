@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 backup/
+
+# Big csv
+datasets/raw.csv
+datasets/tokens.csv
