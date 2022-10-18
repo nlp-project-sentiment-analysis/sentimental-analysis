@@ -1,0 +1,75 @@
+
+
+=====================================================
+
+Clf: MultinomialNB()			Time taken: 27.77197766304016
+Train Accuracy Score: 79%
+Test Accuracy Score: 76%
+Report: 
+              precision    recall  f1-score   support
+
+         pos       0.77      0.75      0.76    241913
+         neg       0.75      0.77      0.76    233194
+
+    accuracy                           0.76    475107
+   macro avg       0.76      0.76      0.76    475107
+weighted avg       0.76      0.76      0.76    475107
+Confusion matrix: 
+[[182362  54693]
+ [ 59551 178501]]
+
+=====================================================
+
+Clf: BernoulliNB()			Time taken: 26.559964656829834
+Train Accuracy Score: 80%
+Test Accuracy Score: 77%
+Report: 
+              precision    recall  f1-score   support
+
+         pos       0.77      0.77      0.77    238319
+         neg       0.77      0.77      0.77    236788
+
+    accuracy                           0.77    475107
+   macro avg       0.77      0.77      0.77    475107
+weighted avg       0.77      0.77      0.77    475107
+Confusion matrix: 
+[[183481  53574]
+ [ 54838 183214]]
+
+
+=====================================================
+
+Clf: LogisticRegressionCV(cv=5, max_iter=10000, n_jobs=-1, random_state=24)			Time taken: 3145.819894552231
+Train Accuracy Score: 79%
+Test Accuracy Score: 78%
+Report: 
+              precision    recall  f1-score   support
+
+         pos       0.77      0.79      0.78    228962
+         neg       0.80      0.78      0.79    246145
+
+    accuracy                           0.78    475107
+   macro avg       0.78      0.78      0.78    475107
+weighted avg       0.78      0.78      0.78    475107
+Confusion matrix: 
+[[181713  55342]
+ [ 47249 190803]]
+
+
+=====================================================
+
+Clf: LogisticRegressionCV(cv=3, max_iter=1000000, n_jobs=-1, random_state=24)			Time taken: 1150.615336894989
+Train Accuracy Score: 79%
+Test Accuracy Score: 78%
+Report: 
+              precision    recall  f1-score   support
+
+         pos       0.77      0.79      0.78    228974
+         neg       0.80      0.78      0.79    246133
+
+    accuracy                           0.78    475107
+   macro avg       0.78      0.78      0.78    475107
+weighted avg       0.78      0.78      0.78    475107
+Confusion matrix: 
+[[181721  55334]
+ [ 47253 190799]]
